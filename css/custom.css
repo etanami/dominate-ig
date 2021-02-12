@@ -47,6 +47,20 @@ footer p {
 .list-phrases {
   font-size: 1.2rem;
 }
+
+#main-footer {
+  border-top: 2px solid green;
+}
+
+#card-reviews {
+  background-color: #acff2f4d;
+  border-radius: 5rem;
+}
+
+.img-item {
+  height: 150px;
+}
+
 /* 
 .video-container {
   position: relative;
